@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aiswarya P
 
-<!--
-**AiswaryaP75/AiswaryaP75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year B.Tech Information Technology student
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Full-Stack Development, and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Generative AI and Data Analytics
+- 💻 Interested in building AI-powered web applications
+- 🤝 Love working on collaborative projects
+- 📍 Kerala, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- C
+- HTML
+- CSS
+- SQL
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Render
+- Cloudinary
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 Smart Government Scheme Assistant
+AI-powered web application that helps users discover government welfare schemes using Google Gemini and Retrieval-Augmented Generation (RAG).
+
+**Tech Stack:**
+React • Node.js • Express • MongoDB • Gemini API
+
+---
+
+### 📚 Explain Like I'm...
+An AI-powered learning platform that explains concepts at different difficulty levels using Generative AI.
+
+**Tech Stack:**
+React • Node.js • MongoDB • Gemini API
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/aiswarya-p-a7a924328
+- GitHub: https://github.com/AiswaryaP75
+
+---
+
+⭐ Thanks for visiting my profile!
